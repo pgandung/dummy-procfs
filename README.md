@@ -26,7 +26,7 @@ $ cat /proc/dummy
 Hello, World!
 ```
 
-## Unloading module and remove /proc/dummy
+### Unloading module and remove /proc/dummy
 
 ```
 $ sudo rmmod dummy
